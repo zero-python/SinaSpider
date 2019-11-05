@@ -1,2 +1,1 @@
-git test
-git add test branch
+git update test branch
